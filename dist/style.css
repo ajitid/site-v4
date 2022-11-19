@@ -49,3 +49,18 @@ body {
 #passage {
   position: relative;
 }
+
+#face {
+  width: 40px;
+  display: inline;
+  margin-top: -10px;
+}
+
+
+/* size: md */
+@media (min-width: 768px) {
+  #face {
+    width: 100px;
+    margin-top: -40px;
+  }
+}
