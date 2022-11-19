@@ -24,15 +24,14 @@ body {
   right: 0;
   top: 0;
   width: 200px;
-  margin-top: -60px;
-
+  margin-top: -70px;
 }
 
 
 /* size: md */
 @media (min-width: 768px) {
   #topright {
-    margin-top: -330px;
+    margin-top: -200px;
     width: 600px;
   }
 }
@@ -41,7 +40,7 @@ body {
 /* size: lg */
 @media (min-width: 1024px) {
   #topright {
-    margin-top: -230px;
+    margin-top: -180px;
     width: 600px;
   }
 }
